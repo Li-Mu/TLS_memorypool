@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "baselib",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Benchmark::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Benchmark-Debug-47dea1b5cb32206fcee8.json",
+					"name" : "Benchmark",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "UnitTest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UnitTest-Debug-4d31076528bae057c7a3.json",
+					"name" : "UnitTest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "baselib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-baselib-Debug-3fc51b3288b617c944c6.json",
+					"name" : "baselib",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/ihavc01/data/ihavc01/LPT/TLS_MemoryPool-master/ConcurrentMemoryPool/build",
+		"source" : "/home/ihavc01/data/ihavc01/LPT/TLS_MemoryPool-master/ConcurrentMemoryPool"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+            "type": "cppbuild",
+            "label": "${workspaceFolder}/build/Benchmark",
+            "command": "/usr/bin/gbd",
+            "args": [
+                "-g",
+                "${workspaceRoot}/src/Benchmark.cc",
+                "-o",
+                "${workspaceFolder}/build/Benchmark"
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "调试器生成的任务。"
+        }
+	]
+}

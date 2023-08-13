@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbaseLib.a CMakeFiles/baseLib.dir/CentralCache.cpp.o CMakeFiles/baseLib.dir/PageCache.cpp.o CMakeFiles/baseLib.dir/ThreadCache.cpp.o
+/usr/bin/ranlib libbaseLib.a

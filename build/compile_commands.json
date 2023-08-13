@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/ihavc01/data/ihavc01/LPT/TLS_MemoryPool-master/ConcurrentMemoryPool/build",
+  "command": "/usr/bin/g++-9 -Dbaselib_EXPORTS -I/home/ihavc01/data/ihavc01/LPT/TLS_MemoryPool-master/ConcurrentMemoryPool/.  -export-dynamic -O0 -ggdb -pg -std=c++17 -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g -fPIC -o CMakeFiles/baselib.dir/baselib/CentralCache.cc.o -c /home/ihavc01/data/ihavc01/LPT/TLS_MemoryPool-master/ConcurrentMemoryPool/baselib/CentralCache.cc",
+  "file": "/home/ihavc01/data/ihavc01/LPT/TLS_MemoryPool-master/ConcurrentMemoryPool/baselib/CentralCache.cc"
+},
+{
+  "directory": "/home/ihavc01/data/ihavc01/LPT/TLS_MemoryPool-master/ConcurrentMemoryPool/build",
+  "command": "/usr/bin/g++-9 -Dbaselib_EXPORTS -I/home/ihavc01/data/ihavc01/LPT/TLS_MemoryPool-master/ConcurrentMemoryPool/.  -export-dynamic -O0 -ggdb -pg -std=c++17 -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g -fPIC -o CMakeFiles/baselib.dir/baselib/PageCache.cc.o -c /home/ihavc01/data/ihavc01/LPT/TLS_MemoryPool-master/ConcurrentMemoryPool/baselib/PageCache.cc",
+  "file": "/home/ihavc01/data/ihavc01/LPT/TLS_MemoryPool-master/ConcurrentMemoryPool/baselib/PageCache.cc"
+},
+{
+  "directory": "/home/ihavc01/data/ihavc01/LPT/TLS_MemoryPool-master/ConcurrentMemoryPool/build",
+  "command": "/usr/bin/g++-9 -Dbaselib_EXPORTS -I/home/ihavc01/data/ihavc01/LPT/TLS_MemoryPool-master/ConcurrentMemoryPool/.  -export-dynamic -O0 -ggdb -pg -std=c++17 -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g -fPIC -o CMakeFiles/baselib.dir/baselib/Common.cc.o -c /home/ihavc01/data/ihavc01/LPT/TLS_MemoryPool-master/ConcurrentMemoryPool/baselib/Common.cc",
+  "file": "/home/ihavc01/data/ihavc01/LPT/TLS_MemoryPool-master/ConcurrentMemoryPool/baselib/Common.cc"
+},
+{
+  "directory": "/home/ihavc01/data/ihavc01/LPT/TLS_MemoryPool-master/ConcurrentMemoryPool/build",
+  "command": "/usr/bin/g++-9 -Dbaselib_EXPORTS -I/home/ihavc01/data/ihavc01/LPT/TLS_MemoryPool-master/ConcurrentMemoryPool/.  -export-dynamic -O0 -ggdb -pg -std=c++17 -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g -fPIC -o CMakeFiles/baselib.dir/baselib/ThreadCache.cc.o -c /home/ihavc01/data/ihavc01/LPT/TLS_MemoryPool-master/ConcurrentMemoryPool/baselib/ThreadCache.cc",
+  "file": "/home/ihavc01/data/ihavc01/LPT/TLS_MemoryPool-master/ConcurrentMemoryPool/baselib/ThreadCache.cc"
+},
+{
+  "directory": "/home/ihavc01/data/ihavc01/LPT/TLS_MemoryPool-master/ConcurrentMemoryPool/build",
+  "command": "/usr/bin/g++-9  -I/home/ihavc01/data/ihavc01/LPT/TLS_MemoryPool-master/ConcurrentMemoryPool/.  -export-dynamic -O0 -ggdb -pg -std=c++17 -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g -o CMakeFiles/Benchmark.dir/src/Benchmark.cc.o -c /home/ihavc01/data/ihavc01/LPT/TLS_MemoryPool-master/ConcurrentMemoryPool/src/Benchmark.cc",
+  "file": "/home/ihavc01/data/ihavc01/LPT/TLS_MemoryPool-master/ConcurrentMemoryPool/src/Benchmark.cc"
+},
+{
+  "directory": "/home/ihavc01/data/ihavc01/LPT/TLS_MemoryPool-master/ConcurrentMemoryPool/build",
+  "command": "/usr/bin/g++-9  -I/home/ihavc01/data/ihavc01/LPT/TLS_MemoryPool-master/ConcurrentMemoryPool/.  -export-dynamic -O0 -ggdb -pg -std=c++17 -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g -o CMakeFiles/UnitTest.dir/src/UnitTest.cc.o -c /home/ihavc01/data/ihavc01/LPT/TLS_MemoryPool-master/ConcurrentMemoryPool/src/UnitTest.cc",
+  "file": "/home/ihavc01/data/ihavc01/LPT/TLS_MemoryPool-master/ConcurrentMemoryPool/src/UnitTest.cc"
+}
+]
