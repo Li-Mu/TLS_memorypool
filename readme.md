@@ -340,7 +340,7 @@ private:
 **释放内存：**
 - 如果Central Cache释放回一个span，则依次寻找span的前后_pageid的span，看是否可以合并，如果合并继续向前寻找。这样就可以将切小的内存合并收缩成大的span，减少内存碎片。
 
-**4.6 向系统申请内存**
+**向系统申请内存**
 - **VirtualAlloc** https://baike.baidu.com/item/VirtualAlloc/1606859?fr=aladdin
 - **brk和mmap** https://www.cnblogs.com/vinozly/p/5489138.html
 
