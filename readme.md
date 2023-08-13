@@ -345,6 +345,6 @@ private:
 - **brk和mmap** https://www.cnblogs.com/vinozly/p/5489138.html
 
 ##### **5. 参考资料**
-**几个内存池库的对比：** https://blog.csdn.net/junlon2006/article/details/77854898
-**tcmalloc源码学习：** https://www.cnblogs.com/persistentsnail/p/3442185.html
-**TCMALLOC 源码阅读：** https://blog.csdn.net/math715/article/details/80654167
+**几个内存池库的对比：** https://blog.csdn.net/junlon2006/article/details/77854898  
+**tcmalloc源码学习：** https://www.cnblogs.com/persistentsnail/p/3442185.html  
+**TCMALLOC 源码阅读：** https://blog.csdn.net/math715/article/details/80654167  
